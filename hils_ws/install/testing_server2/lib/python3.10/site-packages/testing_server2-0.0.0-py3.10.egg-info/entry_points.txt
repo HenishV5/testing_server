@@ -1,2 +1,0 @@
-[console_scripts]
-testing_node2 = testing_server2.testing_node2:main
