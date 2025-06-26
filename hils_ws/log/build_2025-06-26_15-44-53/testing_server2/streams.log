@@ -1,0 +1,35 @@
+[1.226s] Invoking command in '/home/rex/hils/hils_ws/src/testing_server2': PYTHONPATH=/home/rex/hils/hils_ws/build/testing_server2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/testing_server2 build --build-base /home/rex/hils/hils_ws/build/testing_server2/build install --record /home/rex/hils/hils_ws/build/testing_server2/install.log --single-version-externally-managed install_data
+[1.467s] /home/rex/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.467s]   warnings.warn(msg)
+[1.597s] running egg_info
+[1.618s] creating ../../build/testing_server2/testing_server2.egg-info
+[1.618s] writing ../../build/testing_server2/testing_server2.egg-info/PKG-INFO
+[1.619s] writing dependency_links to ../../build/testing_server2/testing_server2.egg-info/dependency_links.txt
+[1.619s] writing entry points to ../../build/testing_server2/testing_server2.egg-info/entry_points.txt
+[1.619s] writing requirements to ../../build/testing_server2/testing_server2.egg-info/requires.txt
+[1.619s] writing top-level names to ../../build/testing_server2/testing_server2.egg-info/top_level.txt
+[1.620s] writing manifest file '../../build/testing_server2/testing_server2.egg-info/SOURCES.txt'
+[1.666s] reading manifest file '../../build/testing_server2/testing_server2.egg-info/SOURCES.txt'
+[1.668s] writing manifest file '../../build/testing_server2/testing_server2.egg-info/SOURCES.txt'
+[1.668s] running build
+[1.669s] running build_py
+[1.669s] creating /home/rex/hils/hils_ws/build/testing_server2/build/lib/testing_server2
+[1.669s] copying testing_server2/testing_node2.py -> /home/rex/hils/hils_ws/build/testing_server2/build/lib/testing_server2
+[1.670s] copying testing_server2/__init__.py -> /home/rex/hils/hils_ws/build/testing_server2/build/lib/testing_server2
+[1.670s] running install
+[1.678s] running install_lib
+[1.705s] creating /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2
+[1.707s] copying /home/rex/hils/hils_ws/build/testing_server2/build/lib/testing_server2/testing_node2.py -> /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2
+[1.708s] copying /home/rex/hils/hils_ws/build/testing_server2/build/lib/testing_server2/__init__.py -> /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2
+[1.708s] byte-compiling /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2/testing_node2.py to testing_node2.cpython-310.pyc
+[1.708s] byte-compiling /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2/__init__.py to __init__.cpython-310.pyc
+[1.708s] running install_data
+[1.709s] creating /home/rex/hils/hils_ws/install/testing_server2/share/ament_index/resource_index/packages
+[1.710s] copying resource/testing_server2 -> /home/rex/hils/hils_ws/install/testing_server2/share/ament_index/resource_index/packages
+[1.710s] copying package.xml -> /home/rex/hils/hils_ws/install/testing_server2/share/testing_server2
+[1.710s] running install_egg_info
+[1.745s] Copying ../../build/testing_server2/testing_server2.egg-info to /home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages/testing_server2-0.0.0-py3.10.egg-info
+[1.747s] running install_scripts
+[1.967s] Installing testing_node2 script to /home/rex/hils/hils_ws/install/testing_server2/lib/testing_server2
+[1.968s] writing list of installed files to '/home/rex/hils/hils_ws/build/testing_server2/install.log'
+[2.021s] Invoked command in '/home/rex/hils/hils_ws/src/testing_server2' returned '0': PYTHONPATH=/home/rex/hils/hils_ws/build/testing_server2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rex/hils/hils_ws/install/testing_server2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/testing_server2 build --build-base /home/rex/hils/hils_ws/build/testing_server2/build install --record /home/rex/hils/hils_ws/build/testing_server2/install.log --single-version-externally-managed install_data

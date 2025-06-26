@@ -1,0 +1,30 @@
+/home/rex/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../../../../build/testing_server/testing_server.egg-info/PKG-INFO
+writing dependency_links to ../../../../../build/testing_server/testing_server.egg-info/dependency_links.txt
+writing entry points to ../../../../../build/testing_server/testing_server.egg-info/entry_points.txt
+writing requirements to ../../../../../build/testing_server/testing_server.egg-info/requires.txt
+writing top-level names to ../../../../../build/testing_server/testing_server.egg-info/top_level.txt
+reading manifest file '../../../../../build/testing_server/testing_server.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../../../build/testing_server/testing_server.egg-info/SOURCES.txt'
+running build
+running build_py
+copying testing_server/__init__.py -> /home/rex/hils/hils_ws/build/testing_server/build/lib/testing_server
+copying testing_server/testing_node.py -> /home/rex/hils/hils_ws/build/testing_server/build/lib/testing_server
+running install
+running install_lib
+copying /home/rex/hils/hils_ws/build/testing_server/build/lib/testing_server/__init__.py -> /home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server
+copying /home/rex/hils/hils_ws/build/testing_server/build/lib/testing_server/testing_node.py -> /home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server
+byte-compiling /home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server/testing_node.py to testing_node.cpython-310.pyc
+running install_data
+copying resource/testing_server -> /home/rex/hils/hils_ws/install/testing_server/share/ament_index/resource_index/packages
+copying package.xml -> /home/rex/hils/hils_ws/install/testing_server/share/testing_server
+running install_egg_info
+removing '/home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../../../build/testing_server/testing_server.egg-info to /home/rex/hils/hils_ws/install/testing_server/lib/python3.10/site-packages/testing_server-0.0.0-py3.10.egg-info
+running install_scripts
+Installing testing_node script to /home/rex/hils/hils_ws/install/testing_server/lib/testing_server
+writing list of installed files to '/home/rex/hils/hils_ws/build/testing_server/install.log'
